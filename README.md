@@ -33,9 +33,9 @@
 
 * example output data
 
-{
-    "text": "L'empresa de seguretat de l'assass\u00ed hom\u00f2fob d'Orlando, G4S, va ser denunciada per col\u00b7laborar amb la tortura https://t.co/J0VQnKGWXl", 
-    "created_at": "2016-06-13 15:56:23", 
+> {
+>     "text": "L'empresa de seguretat de l'assass\u00ed hom\u00f2fob d'Orlando, G4S, va ser denunciada per col\u00b7laborar amb la tortura https://t.co/J0VQnKGWXl", 
+>     "created_at": "2016-06-13 15:56:23", 
     "source": "Twitter Web Client", 
     "in_reply_to_user_id": null, 
     "geo": null, 
@@ -72,7 +72,7 @@
         "geo_enabled": false, 
         "id": 2712758357
     }
-},
+}
 
 
 ### Who do I talk to? ###

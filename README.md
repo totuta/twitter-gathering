@@ -73,8 +73,14 @@
         "geo_enabled": false, 
         "id": 2712758357
     }
-}
+},
 ```
+
+### Note ###
+
+* output is NOT in the strict json format
+	* output file ends with `,`
+	* this is for appending newer data at the end of output file
 
 
 ### Who do I talk to? ###

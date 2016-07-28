@@ -12,8 +12,6 @@
 
 ### How do I use it? ###
 
-* Summary of set up
-	* git clone this repo
 * Configuration
 	* open twitter-gathering.py in your favorite editor
 	* change line 21 with your own directory and file name

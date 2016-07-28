@@ -60,6 +60,7 @@ def main():
 	outFile = open(OUT_FILE,'a')
 
 	# for a full map of tweet data, refer to http://mike.teczno.com/img/raffi-krikorian-map-of-a-tweet.png
+	#   other fields can be added to below or existing ones can be deleted
 	for i in range(0,len(searched_tweets)):
 
 		json_temp = {}

@@ -4,7 +4,6 @@
 
 * Quick summary
 
-	* gather and store tweets by using Twitter Search API
 	* search tweets back into the past and store in JSON format
  
 * Version

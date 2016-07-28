@@ -4,7 +4,7 @@
 
 * Quick summary
 
-	* search tweets back into the past and store in JSON format
+	* search tweets back into the past and store them in JSON format
  
 * Version
 

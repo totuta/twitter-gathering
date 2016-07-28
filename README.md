@@ -22,7 +22,7 @@
 * Dependencies
 	* tweepy
 		* pip install tweepy
-		* you might need to use virtualenv in case you can not use sudo
+		* you might need to use virtualenv in case you do not have sudo access
 * How to run
 	* for 1-time search
 		* python twitter-gathering.py

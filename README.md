@@ -10,7 +10,7 @@
 
 	* v1.0 : basic function for search and store in JSON
 
-### How do I get set up? ###
+### How do I use it? ###
 
 * Summary of set up
 	* git clone this repo

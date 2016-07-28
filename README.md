@@ -17,10 +17,12 @@
 	* change line 21 with your own directory and file name
 	* change line 26 with your own search query
 		* for query format, https://dev.twitter.com/rest/public/search 
-	* change line 37~40 with your won authentication information
+	* change line 37~40 with your own authentication information
 		* to obtain your authentication info, https://apps.twitter.com/app/new
 * Dependencies
 	* tweepy
+		* pip install tweepy
+		* you might need to use virtualenv in case you can not use sudo
 * How to run
 	* for 1-time search
 		* python twitter-gathering.py

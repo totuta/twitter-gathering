@@ -1,15 +1,10 @@
-# twitter-gathering
-gather and store tweets by Twitter Search API
-
-
-
-# README #
+# twitter-gathering #
 
 ### What is this repository for? ###
 
 * Quick summary
 
-	* To extract triple relations from the huge wackypedia_en data
+	* gather and store tweets by Twitter Search API
  
 * Version
 
